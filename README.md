@@ -9,5 +9,5 @@ A project to learn more about testing, distributing package, and testing with gi
 - works with integer, floats, strings and lists
 - does not work with dictionary
 
-![image](https://user-images.githubusercontent.com/70811340/149706132-3641e388-d078-4ebb-bd8e-ed301c310c17.png)
+![image](https://user-images.githubusercontent.com/70811340/149706174-cfd92199-68b5-4f4e-9879-0f2f98206383.png)
 
