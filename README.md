@@ -10,6 +10,6 @@ A project to learn more about testing, distributing package, and testing with gi
 - works with integer, floats, strings and lists
 - does not work with dictionary
 
-![image](https://user-images.githubusercontent.com/70811340/149706174-cfd92199-68b5-4f4e-9879-0f2f98206383.png)
+![image](https://user-images.githubusercontent.com/70811340/149772746-79398fee-da39-42a0-9173-ecf77e3aa492.png)
 
 https://www.youtube.com/watch?v=GsEo4_9mIMg
