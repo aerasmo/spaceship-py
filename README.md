@@ -1,7 +1,7 @@
 # spaceship-py
 Based on PHP &lt;=> (spaceship) operator. It returns 0 if both operands are equal, 1 if the left is greater, and -1 if the right is greater. 
-package: https://test.pypi.org/project/spaceship-py/
-reference: https://wiki.php.net/rfc/combined-comparison-operator
+- package: https://test.pypi.org/project/spaceship-py/
+- reference: https://wiki.php.net/rfc/combined-comparison-operator
 
 ## context
 A project to learn more about testing, distributing package, and testing with github actions
